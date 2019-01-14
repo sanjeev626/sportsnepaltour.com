@@ -1,0 +1,84 @@
+[01-Jul-2013 15:14:35 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[01-Jul-2013 15:14:35 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[01-Jul-2013 15:19:46 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[01-Jul-2013 15:19:46 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[11-Aug-2013 00:44:20 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[11-Aug-2013 00:44:20 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[11-Aug-2013 00:44:31 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[11-Aug-2013 00:44:31 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[10-Nov-2013 14:13:08 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[10-Nov-2013 14:13:08 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[10-Nov-2013 14:13:27 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[10-Nov-2013 14:13:27 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[14-Feb-2014 21:07:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[14-Feb-2014 21:07:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[14-Feb-2014 21:07:35 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[14-Feb-2014 21:07:35 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[21-Apr-2014 04:46:51 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[21-Apr-2014 04:46:51 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[21-Jun-2014 03:20:49 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[21-Jun-2014 03:20:49 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[08-Jul-2014 00:21:24 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[08-Jul-2014 00:21:24 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[08-Jul-2014 00:21:29 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[08-Jul-2014 00:21:29 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[24-Aug-2014 16:35:50 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[24-Aug-2014 16:35:50 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[24-Aug-2014 16:35:51 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[24-Aug-2014 16:35:51 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sports/public_html/classes/dbCls.php on line 57
+[26-Jan-2016 05:52:32 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/clprj037/public_html/classes/dbCls.php on line 57
+[26-Jan-2016 05:52:32 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/clprj037/public_html/classes/dbCls.php on line 57
+[26-Jan-2016 05:52:45 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/clprj037/public_html/classes/dbCls.php on line 57
+[26-Jan-2016 05:52:45 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/clprj037/public_html/classes/dbCls.php on line 57
+[05-Jun-2016 10:52:21 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/clprj037/public_html/classes/dbCls.php on line 57
+[05-Jun-2016 10:52:21 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/clprj037/public_html/classes/dbCls.php on line 57
+[05-Jun-2016 10:52:42 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/clprj037/public_html/classes/dbCls.php on line 57
+[05-Jun-2016 10:52:42 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/clprj037/public_html/classes/dbCls.php on line 57
+[08-Feb-2018 21:38:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[09-Feb-2018 09:11:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[13-Feb-2018 08:17:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[13-Feb-2018 11:22:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[13-Feb-2018 12:54:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[13-Feb-2018 16:30:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[13-Feb-2018 18:25:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[13-Feb-2018 19:31:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[13-Feb-2018 20:47:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[14-Feb-2018 01:00:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[14-Feb-2018 03:39:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[14-Feb-2018 03:51:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[14-Feb-2018 06:26:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[14-Feb-2018 10:34:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[12-Jun-2018 11:20:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[16-Jun-2018 16:05:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[29-Aug-2018 17:24:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[07-Sep-2018 15:41:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[07-Oct-2018 20:52:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[08-Oct-2018 20:02:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[09-Oct-2018 06:51:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[18-Oct-2018 22:04:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[21-Oct-2018 21:36:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[26-Oct-2018 01:50:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[29-Oct-2018 03:33:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[31-Oct-2018 21:58:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[02-Nov-2018 01:42:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[04-Nov-2018 04:35:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[05-Nov-2018 05:05:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[07-Nov-2018 05:41:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[08-Nov-2018 08:38:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[09-Nov-2018 16:26:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[09-Nov-2018 16:26:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[11-Nov-2018 09:20:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[12-Nov-2018 09:24:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[16-Nov-2018 09:31:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[22-Nov-2018 21:23:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[29-Nov-2018 23:22:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[01-Dec-2018 20:33:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[03-Dec-2018 23:30:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[07-Dec-2018 01:11:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[08-Dec-2018 01:49:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[09-Dec-2018 03:26:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[10-Dec-2018 04:00:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[11-Dec-2018 04:29:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[13-Dec-2018 06:32:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[14-Dec-2018 07:09:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9
+[15-Dec-2018 09:20:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clprj037/public_html/classes/dbCls.php on line 9

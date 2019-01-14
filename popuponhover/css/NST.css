@@ -1,0 +1,573 @@
+#greyLinear
+{
+    background-image: url(TB_FG.jpg);
+    background-position: bottom;
+    background-repeat:repeat-x;    
+}
+.greyLinearBox
+{
+    border:1px solid #888888;
+    background-color:#FFFFFF;
+    background-image: url(TB_FG.jpg);
+    background-position: bottom;
+    background-repeat:repeat-x;    
+}
+table.TPBG{
+    background:url(bg_w.png);
+    padding:4 4 4 4;
+}
+table.TP_Title{
+    background-image:url(bg_b.png);
+    width:100%;
+    color:#FFFFFF;
+    border-collapse:collapse;
+    border: 0px; 
+}
+table.TPBG_P_LTB{
+    background:url(bg_w.png);
+    background-repeat:repeat;
+    padding: 4 4 4 4;
+}
+table.TPBG_P_RTB
+{
+    background:url(bg_w.png);
+    background-repeat:repeat;
+    padding:4 4 4 0;
+}
+.BlueBar
+{
+    background-image:url(BlueBar.jpg);
+    background-repeat:repeat-x;
+    width:100%;
+}
+.withBorder
+{
+    border:1px solid #888888;
+    background-color:#FFFFFF;
+}
+.withoutBottomBorder
+{
+    border-top-color:#888888;
+    border-top-style:solid;
+    border-top-width:1px;
+    
+    border-left-color:#888888;
+    border-left-style:solid;
+    border-left-width:1px;
+    
+    border-right-color:#888888;
+    border-right-style:solid;
+    border-right-width:1px;
+    
+    background-color:#ffffff;
+}
+.withBottomBorder
+{
+    border-bottom-color:#888888;
+    border-bottom-style:solid;
+    border-bottom-width:1px;
+    background-color:#ffffff;
+}
+
+.withoutTopBorder
+{
+    border-bottom-color:#888888;
+    border-bottom-style:solid;
+    border-bottom-width:1px;
+    
+    border-left-color:#888888;
+    border-left-style:solid;
+    border-left-width:1px;
+    
+    border-right-color:#888888;
+    border-right-style:solid;
+    border-right-width:1px;
+    
+    background-color:#ffffff;
+}
+
+.withTopBorder
+{
+    border-top-color:#888888;
+    border-top-style:solid;
+    border-top-width:1px;
+    background-color:#ffffff;
+}
+
+A {font-family:Arial;}
+A:link {color:#0066CC;}
+A:visited {color:#0066CC;}
+A:hover {color:#FF0000;}
+
+/*CSS Button */
+.GreenButton
+{
+    width:60px;
+    height:18px; 
+    line-height:18px; 
+    background-color:#669900; 
+    color:#ffffff; 
+    background-image:url(S_Button_BG.png); 
+    text-align:center; 
+    border:1px solid #669900;
+}
+.GreenButton a
+{
+    color:#fff; 
+    text-decoration:none;
+
+}
+.RedButton
+{
+    width:60px;
+    height:18px; 
+    line-height:18px; 
+    background-color:#cc0000; 
+    color:#ffffff; 
+    background-image:url(SR_Button_BG.png); 
+    text-align:center; 
+    border:1px solid #cc0000;
+}
+.RedButton a
+{
+    color:#fff; 
+    text-decoration:none;
+
+}
+
+
+    /*menu */
+    .menuTop
+    {
+        font-weight:bold; 
+        color:#555;
+    }
+    .menuTop img
+    {
+        border:0px solid #fff;
+    }
+    .menuTop a:link, .menuTop a:visited 
+    {
+        text-decoration:none;
+        font-weight:bold; 
+        color:#555;
+    }
+    .navigation 
+    {
+        list-style-type:none;
+        padding:0;
+        margin:0;
+        float:left;
+    }
+    .navigation li 
+    {
+        width:100px;
+        float:left;
+        text-align:left;
+        position:relative;
+        z-index:999;
+    }
+    li.selectedMenuItem
+    {
+        background-color:#336699;
+    }
+    a.MenuItem:link, a.MenuItem:visited 
+    {
+        text-align:center;
+        font-size:10pt;
+        font-weight:bold;
+        display:block;
+        text-decoration:none;
+        color:#fff;
+        height:30px;
+        line-height:30px;
+        border:0px;
+        border-width:0px 0px 0px 0px;
+        padding-left:0px;
+    }
+    a.MenuItem:hover 
+    {
+        background-color:#336699;
+    }
+    .MenuDD 
+    {
+        display:none;
+        color:#444;
+        background-color:#fff;
+        position:absolute;
+        z-index:9999;
+        border-left:1px solid #555;
+        border-right:1px solid #555;
+        border-bottom:1px solid #555;
+        padding-top:6px;
+        padding-bottom:6px;
+        padding-left:8px;
+        padding-right:8px;
+        font-size:10pt;
+    }
+    .MenuDD a:link, .MenuDD a:visited
+    {
+        font-size:9pt;
+        text-decoration:none;
+        color:#444;
+    }
+    .MenuDD a:hover
+    {
+        text-decoration:underline;
+    }
+
+
+/* Tabs */
+ul.tabs
+{
+    float:left;
+    margin: 4px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+	list-style: none;
+	height: 30px; /*--Set height of tabs--*/
+	width: 100%;
+	/*margin-left: 1px;
+	margin-top: 4px;*/
+	
+}
+ul.tabs li
+{
+    float:left;
+	/*margin: 0;*/
+	padding: 0px 0px 0px 0px;
+	height: 30px; /*--Subtract 1px from the height of the unordered list--*/
+	line-height: 30px; /*--Vertically aligns the text within the tab--*/
+	margin-bottom: -1px; /*--Pull the list item down 1px--*/
+	overflow: hidden;
+	position: relative;
+	background-color:#336699;
+	background-image:url(BlueBar.jpg);
+    background-repeat:repeat-x;
+	width:142px;
+	text-align:center;
+	/*background: #e0e0e0;*/
+}
+ul.tabs li a{
+	text-decoration: none;
+	color: #fff;
+	display: block;
+	font-size: 10px;
+	font-family: trebuchet ms,verdana,arial,sans-serif;
+	/*padding: 0 14px;*/
+	font-size: 12px;
+	outline: none;
+}
+
+html ul.tabs li.active a { /*--Makes sure that the active tab does not listen to the hover properties--*/
+	color:#000000;
+	font-size: 1.2em;
+	background-color:#ffffff;
+	/*padding: 0 20px;*/
+	font-weight:bold;
+}
+
+html ul.tabs li.active
+{
+    width:165px;
+    background-color:#fff;
+    border-top-color:#888888;
+    border-top-style:solid;
+    border-top-width:1px;    
+    border-left-color:#888888;
+    border-left-style:solid;
+    border-left-width:1px;    
+    border-right-color:#888888;
+    border-right-style:solid;
+    border-right-width:1px;
+}
+
+.tab_container 
+{
+	border-top: none;
+	overflow: hidden;
+	clear: both;
+	float: left;
+	background: #fff;
+}
+.tab_content 	
+{
+	margin-left:10px;
+	text-align:left;
+}
+#alltabscontainer
+{
+vertical-align:baseline;
+width:735px;    
+}
+
+/* Slider */
+#parent2 li
+{
+	margin: 5px;
+}
+#parent2-menu a.wactive div
+{
+	background-color: #fc3;
+}
+#parent2-menu a 
+{
+	text-decoration: none
+}
+#parent2-menu a div {
+	border: #fff 1px solid; 
+	width: 8px; 
+	height: 8px; 
+	float: left; 
+	margin-left: 2px; 
+}
+#slidecontainer 
+{
+	width: 733px; 
+	height: 243px;
+}
+#slidecontainer #parent2-menu 
+{    
+	padding-right: 8px;
+	padding-top:2px;
+	float:right;
+	position:relative;
+	margin-top:-20px;
+}
+
+/*ToolTip */
+a.tooltip {
+color:#000000;
+text-decoration:none;
+}
+
+a.tooltip:hover {
+color:#000000;
+background-color:inherit;
+text-decoration:none;
+}
+
+a.tooltip:visited {
+color:#000000;
+text-decoration:none;
+}
+
+a.tooltip span {
+display:none;
+}
+a.tooltip:hover span{
+display:inline; 
+position:absolute; 
+background:#ffffff; 
+}
+
+
+/*ProgressBar */
+.progressbar { 
+	height:70%;
+	background-color:#333333;
+	/*border:1px solid #000000;*/
+	height:6px; 
+	text-align: left;
+	padding: 1px 1px 1px 1px;
+}
+.progressbar-value {
+	width: 0%;
+	height: 100%;
+	background-color:#99CC00;
+}
+.progressbar-lable{
+    text-align: center;
+    font-size:1.5em;
+    font-weight:bold;
+	color: #000000;
+	position:relative;
+	width: 100%;
+	margin-top:-32px;
+}
+	
+/* Booking Progress Setp Box */	
+.processStep{
+    width:100%;
+    border:1px solid #888888;
+    background-color:#FFFFFF;
+    text-align:left;
+    background-position:bottom;
+    background-repeat:repeat-x;
+    background-image:url('TB_FG.jpg');
+}
+.processStep td{
+    height: 20px;
+}
+.processStep-Selectable{
+}
+.processStep-Selectable a{
+    text-decoration: none;
+    color: #000000;
+}
+.processStep-Unselectable{
+   color: #AAAAAA;
+}
+.processStep-Current{
+   background-image:url(../img/processStep.gif);
+   background-color:#FF6600;
+   color: #FFFFFF;
+   font-weight:bold;
+}
+.processStep-Current a{
+   color: #FFFFFF;
+   text-decoration: none;
+}	
+
+/*Price List */
+
+table.PriceList {
+background-color: #FFFFFF;
+width:100%;
+border-collapse:collapse;
+}
+table.PriceList td
+{
+border:1px solid #888888;
+}
+table.PriceList th
+{
+border:1px solid #888888;
+background-color:#000000;
+color:#FFFFFF;
+}
+table.PriceList th a
+{
+color:#FFFFFF;
+text-decoration:none;
+}
+
+table.PopupLable {
+display:none; 
+position:absolute;
+background-image:url(Popup_lable.png);
+margin-top:-205px;
+margin-left:-150px; 
+color:#FFFFFF;
+text-decoration:none;
+font-style:normal;
+font-weight:normal;
+width:320px; 
+height:220px; 
+}
+
+table.PopupLable img 
+{
+    border-style:solid; 
+    border-width:1px; 
+    border-color:#FFFFFF;
+}
+
+table.PopupLable span 
+{
+    font-weight:bold;
+    color:#FF6600;
+    font-size:12pt;
+}
+
+
+/*Tour Attraction Keyword*/
+a.AttractionKeyword {
+/*color:#003399;*/
+color:#008FB9;
+text-transform:capitalize;
+text-decoration:none;
+}
+a.AttractionKeyword visited{
+border-bottom:1pt double;
+font-weight:bold;
+}
+a.AttractionKeyword:hover {
+color:#FF3300;
+}
+a.AttractionKeyword:hover table{
+display:inline;
+}
+table.InfoLable{
+background-color: #CCCCCC;
+display:none;
+position:absolute;
+width:306px;
+height:195px;
+background-image:url('Popup_lable.png');
+font-weight:normal;
+text-decoration:none;
+color:#FFFFFF;
+z-index:999;
+}
+table.InfoLable th{
+color:#FF6600;
+font-weight:bold;
+font-size:14px;
+}
+table.InfoLable img{
+border-style:solid;
+border-width:1px;
+border-color:#FFFFFF;
+}
+table.InfoLable th img{
+border-width:0px;
+position:absolute;
+}
+
+a.flightOption{ color: #000; text-decoration:none; cursor:pointer; }
+a.flightOption img { border-width:0px; }
+a.flightOption u {
+    display:none; 
+    text-decoration:none; 
+    position:absolute; 
+    width:124px;
+    height:44px;
+    margin-left:-5px;
+    margin-top:-26px;
+    padding-left:16px;
+    padding-top:24px;
+    background-image:url(http://www.newshan.com/airfare/img/optionArr.gif);
+    background-repeat:no-repeat;    
+}
+a.flightOption:hover{ color: #000; background-color:#FFF6F6; }
+a.flightOption:hover u { display: block; }
+a.selectedFlightOption{ color: #000; text-decoration:none; cursor:pointer; }
+a.selectedFlightOption img { border-width:0px; }
+a.selectedFlightOption u { display:none; }
+a.selectedFlightOption:hover{ color: #000; }
+
+
+/* LoginBox */
+.loginBox
+{
+    position:absolute; 
+    z-index: 9999;
+    margin-left:-204px;
+    margin-top:0px;
+}
+.loginBoxTitle 
+{
+    position:relative; 
+    z-index: 9999;
+    padding: 3px 3px 1px 3px;
+    background-color:#fff;
+    border-left: 1px solid #888;
+    border-right: 1px solid #888;
+    border-top: 1px solid #888;
+    cursor:pointer;
+}
+.loginBoxContant 
+{
+    position:relative; 
+    z-index: 9998;
+    border: 1px solid #888;
+    padding: 3px;
+    width: 200px;
+    height: 146px;
+
+    font-weight: normal;
+    background-image: url(TB_FG.jpg);
+    background-position: bottom;
+    background-repeat:repeat-x;    
+    background-color: #fff;
+}
